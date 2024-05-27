@@ -6,7 +6,7 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection: 👂 heard
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -17,7 +17,7 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules: 👂 heard
+  - Dependencies: npm, node_modules: 🖐️ used
   - Dependencies: package.json and package lock
   - Module-based permissions model
   - Isolation with modularity
@@ -26,10 +26,10 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments: 👂 heard
+  - Command line arguments: 🎓 known
   - Node.js CLI
   - Process-based permissions
-  - Graceful shutdown: 👂 heard
+  - Graceful shutdown: 🎓 known
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
@@ -83,34 +83,34 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S): 👂 heard
-  - TCP/SSL: 👂 heard
-  - UDP: 👂 heard
-  - TLS: 👂 heard
-  - Websocket: 👂 heard
-  - SSE: 👂 heard
-  - HTTP/3 (QUIC)
-  - Long polling
-  - REST: 👂 heard
-  - RPC
-  - Routing: 👂 heard
-  - DoS: 👂 heard
-  - DDoS: 👂 heard
-  - XSS: 👂 heard
-  - Path traversal
-  - CSRF
-  - DNS: 👂 heard
+  - IP sticky sessions: 🎓 known
+  - Endpoint throttling: 🎓 known
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
+  - Websocket: 🎓 known
+  - SSE: 🎓 known
+  - HTTP/3 (QUIC): 🎓 known
+  - Long polling: 🎓 known
+  - REST: 🎓 known
+  - RPC: 🎓 known
+  - Routing: 🎓 known
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
+  - XSS: 🎓 known
+  - Path traversal: 🎓 known
+  - CSRF: 🎓 known
+  - DNS: 🎓 known
   - Fetch API
   - IncomingMessage
-  - SQL injection: 👂 heard
-  - noDelay
-  - keep-alive: 👂 heard
+  - SQL injection: 🎓 known
+  - noDelay: 🎓 known
+  - keep-alive: 🎓 known
   - ALPN
   - SNI callback
-  - SSL certificates: 👂 heard
-  - Protocol agnostic approach
+  - SSL certificates: 🎓 known
+  - Protocol agnostic approach: 🎓 known
 - Technique and tools
   - Native test runner
   - Logging
@@ -142,13 +142,13 @@
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions: 👂 heard
+  - Uncaught exceptions: 🎓 known
   - Heap dump: 👂 heard
   - Debugging tools: 👂 heard
   - Flame graph
-  - Memory leaks: 👂 heard
-  - Resource leaks: 👂 heard
-  - Data race: 👂 heard
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
+  - Data race: 🎓 known
 - Integrations and bindings
   - Native addons
   - C and C++ addons

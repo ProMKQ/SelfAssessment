@@ -1,89 +1,89 @@
 ## JavaScript
 
 - Language
-  - Object: 👂 heard
-  - this: 👂 heard
-  - arrow function: 👂 heard
-  - async function: 👂 heard
-  - call: 👂 heard
-  - bind: 👂 heard
-  - apply: 👂 heard
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof: 👂 heard
-  - destructuring
-  - generator: 👂 heard
-  - iterator: 👂 heard
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global: 👂 heard
-  - globalThis
-  - window: 👂 heard
-  - getters and setters: 👂 heard
-  - __proto__
-  - prototype
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 🎓 known
+  - call: 🎓 known
+  - bind: 🎓 known
+  - apply: 🎓 known
+  - instanceof: 🎓 known
+  - ...spread: 🎓 known
+  - ...rest: 🎓 known
+  - typeof: 🎓 known
+  - destructuring: 🎓 known
+  - generator: 🎓 known
+  - iterator: 🎓 known
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
+  - chaining: 🎓 known
+  - optional chaining: 🎓 known
+  - IIFE: 🎓 known
+  - global: 🎓 known
+  - globalThis: 🎓 known
+  - window: 🖐️ used
+  - getters and setters: 🖐️ used
+  - __proto__: 🎓 known
+  - prototype: 🎓 known
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
   - bitwise operators: 🖐️ used
   - ternary operator: 🖐️ used
   - void: 🖐️ used
-  - yield: 👂 heard
-  - await: 👂 heard
-  - template literal
-  - strict mode: 👂 heard
-  - delete: 👂 heard
-  - in: 👂 heard
-  - super: 👂 heard
-  - Symbol
-  - Reflect
+  - yield: 🎓 known
+  - await: 🎓 known
+  - template literal: 🖐️ used
+  - strict mode: 🖐️ used
+  - delete: 🖐️ used
+  - in: 🖐️ used
+  - super: 🎓 known
+  - Symbol: 🎓 known
+  - Reflect: 🎓 known
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
   - do..while: 🖐️ used
   - for: 🖐️ used
-  - for..in: 👂 heard
-  - for..of
-  - for await
-  - throw: 👂 heard
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
+  - for await: 🎓 known
+  - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
-  - import: 👂 heard
-  - export
-  - label
-  - try..catch: 👂 heard
-  - switch: 👂 heard
-  - class: 👂 heard
-  - new Error: 👂 heard
-  - with: 👂 heard
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - label: 🎓 known
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 🖐️ used
+  - with: 🖐️ used
 - Functions
-  - function declaration: 👂 heard
-  - function expression
-  - return: 👂 heard
-  - default parameters: 👂 heard
-  - functional object
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object: 🖐️ used
 - Data structures
   - Array: 🖐️ used
-  - mixin
+  - mixin: 👂 heard
   - extend: 👂 heard
-  - typed arrays: 👂 heard
-  - Map: 👂 heard
-  - Set: 👂 heard
+  - typed arrays: 🖐️ used
+  - Map: 🖐️ used
+  - Set: 🖐️ used
   - undefined: 🖐️ used
   - null: 🖐️ used
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp: 👂 heard
-  - Date: 👂 heard
-  - BigInt: 👂 heard
+  - Proxy: 👂 heard
+  - weak collections: 👂 heard
+  - timers: 🎓 known
+  - EventEmitter: 👂 heard
+  - RegExp: 🖐️ used
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js: 👂 heard
-  - npm: 👂 heard
-  - prettier: 👂 heard
-  - MDN
+  - V8: 🎓 known
+  - Node.js: 🎓 known
+  - npm: 🎓 known
+  - prettier: 🎓 known
+  - MDN: 🎓 known
