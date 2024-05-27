@@ -1,16 +1,16 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🖐️ used
-  - identifier: 🖐️ used
-  - variable: 🖐️ used
-  - constant: 🖐️ used
-  - scalar: 🖐️ used
-  - literal: 🖐️ used
-  - expression: 🖐️ used
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
   - heap: 🖐️ used
-  - function: 🖐️ used
-  - procedure: 🖐️ used
+  - function: 🙋 explained
+  - procedure: 🙋 explained
   - method: 🖐️ used
   - class: 🖐️ used
   - prototype: 🖐️ used
@@ -26,7 +26,7 @@
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
   - interface: 🖐️ used
-  - contract
+  - contract: 🎓 known
   - module: 🖐️ used
   - call stack: 🖐️ used
 - Functions
@@ -36,22 +36,22 @@
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
   - side effects: 🖐️ used
-  - closure
-  - partial application
-  - curry
-  - higher order
+  - closure: 🎓 known
+  - partial application: 🎓 known
+  - curry: 🎓 known
+  - higher order: 🎓 known
   - recursion: 🖐️ used
   - callback: 🖐️ used
   - listener: 🖐️ used
-  - compose
-  - pipe
+  - compose: 🎓 known
+  - pipe: 🎓 known
   - memoize: 🖐️ used
   - wrapper: 🖐️ used
-  - functor
-  - monad
-  - monoid
+  - functor: 🎓 known
+  - monad: 🎓 known
+  - monoid: 🎓 known
   - generator: 🖐️ used
-  - coroutine: 👂 heard
+  - coroutine: 🎓 known
 - Data structures
   - array: 🖐️ used
   - structure: 🖐️ used
@@ -59,16 +59,17 @@
   - enum: 🖐️ used
   - instance: 🖐️ used
   - object: 🖐️ used
+  - class: 🖐️ used
   - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 🖐️ used
-  - linked list: 👂 heard
-  - doubly list: 👂 heard
-  - unrolled list
-  - circular list
-  - queue: 👂 heard
-  - stack: 👂 heard
-  - deque: 👂 heard
+  - linked list: 🎓 known
+  - doubly list: 🎓 known
+  - unrolled list: 🎓 known
+  - circular list: 🎓 known
+  - queue: 🖐️ used
+  - stack: 🎓 known
+  - deque: 🖐️ used
   - tree: 🖐️ used
   - graph: 🖐️ used
   - iterator: 🖐️ used
@@ -78,13 +79,13 @@
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🎓 known
-  - transpiler: 👂 heard
-  - linter: 👂 heard
-  - polyfill
+  - transpiler: 🎓 known
+  - linter: 🎓 known
+  - polyfill: 🎓 known
   - debugger: 🖐️ used
   - garbage collection: 🎓 known
   - refactoring: 🖐️ used
-  - code review: 👂 heard
+  - code review: 🖐️ used
   - antipatterns: 🎓 known
   - paradigm: 🎓 known
   - algorithm: 🎓 known
@@ -93,9 +94,9 @@
   - complexity: 🎓 known
   - decomposition: 🖐️ used
   - spaghetti: 🎓 known
-  - silver bullet
-  - not invented here
-  - dead code
+  - silver bullet: 🎓 known
+  - not invented here: 🎓 known
+  - dead code: 🎓 known
   - unreachable code: 🎓 known
   - duplicate code: 🎓 known
   - exception: 🖐️ used
