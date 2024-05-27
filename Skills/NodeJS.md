@@ -65,7 +65,6 @@
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
   - GRASP
   - SOLID
   - GoF patterns
@@ -157,14 +156,13 @@
   - Zig addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
-  - NAPI C and C++
+  - NAPI C and C+: 🎓 known
   - NAPI Rust
   - NAPI Zig
   - Webassembly WAT
-  - Webassembly C and C++
+  - Webassembly C and C+: 🎓 known
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
   - Shared memory
-  - SharedArrayBuffer
   - V8 binary serialization
