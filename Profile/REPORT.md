@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-361&nbsp;/&nbsp;412&nbsp;/&nbsp;575-009933?style=flat-square)](https://github.com/ProMKQ/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-400&nbsp;/&nbsp;506&nbsp;/&nbsp;575-009933?style=flat-square)](https://github.com/ProMKQ/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-361&nbsp;/&nbsp;412&nbsp;/&nbsp;575-009933?style=flat-square)](https://github.com/ProMKQ/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-400&nbsp;/&nbsp;506&nbsp;/&nbsp;575-009933?style=flat-square)](https://github.com/ProMKQ/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/ProMKQ/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-361&nbsp;/&nbsp;412&nbsp;/&nbsp;575-009933?style=flat-square"></a>
+<a href="https://github.com/ProMKQ/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-400&nbsp;/&nbsp;506&nbsp;/&nbsp;575-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -48,10 +48,10 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `20` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `22` | `22` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `0` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `0` | `36` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `0` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `0` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `16` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `13` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `7` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `3` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 

@@ -1,22 +1,22 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
+  - Data types: 🙋 explained
+  - Performance tuning: 🙋 explained
+  - Migrations: 🎓 known
   - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
-  - Key-value store
-  - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
+  - Backup and recovery: 🎓 known
+  - Database scalability: 🎓 known
+  - Relational databases: 🎓 known
+  - Key-value store: 🎓 known
+  - Tuple store: 🎓 known
+  - Graph databases: 👂 heard
+  - Object databases: 🎓 known
+  - Column databases: 🎓 known
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
-  - Inverted index
+  - Inverted index: 🖐️ used
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
@@ -24,37 +24,37 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing
+  - Indexing: 🎓 known
   - Primary keys
   - Foreign keys
   - Transactions
-  - Views
-  - Subqueries
+  - Views: 🎓 known
+  - Subqueries: 🎓 known
   - Stored procedures
-  - SQL functions
+  - SQL functions: 🎓 known
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
+  - `SELECT`: 👂 heard
+  - `INSERT`: 👂 heard
   - `UPDATE`
-  - `DELETE`
+  - `DELETE`: 👂 heard
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`
+  - `EXISTS`: 👂 heard
+  - `JOIN`: 👂 heard
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
+  - `WHERE`: 👂 heard
+  - `LIKE`: 👂 heard
+  - `IN`: 👂 heard
   - `BETWEEN`
   - `CREATE TABLE`
   - `ALTER TABLE`
@@ -70,9 +70,9 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
+  - PostgreSQL: 👂 heard
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis
@@ -81,14 +81,14 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite: 👂 heard
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Data analysis: 🎓 known
+  - AI tools: 🎓 known
+  - Cloud databases: 🎓 known
+  - Data Visualization: 🎓 known
