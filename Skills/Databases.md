@@ -1,22 +1,22 @@
 ## Databases
 
 - Theory and concepts
-  - Data types e
-  - Performance tuning e
-  - Migrations k
+  - Data types: 🙋 explained
+  - Performance tuning: 🙋 explained
+  - Migrations: 🎓 known
   - Schema versioning
-  - Backup and recovery k
-  - Database scalability k
-  - Relational databases k
-  - Key-value store k
-  - Tuple store k
-  - Graph databases h
-  - Object databases k
-  - Column databases k
+  - Backup and recovery: 🎓 known
+  - Database scalability: 🎓 known
+  - Relational databases: 🎓 known
+  - Key-value store: 🎓 known
+  - Tuple store: 🎓 known
+  - Graph databases: 👂 heard
+  - Object databases: 🎓 known
+  - Column databases: 🎓 known
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
-  - Inverted index u
+  - Inverted index: 🖐️ used
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
@@ -24,37 +24,37 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing k
+  - Indexing: 🎓 known
   - Primary keys
   - Foreign keys
   - Transactions
-  - Views k
-  - Subqueries k
+  - Views: 🎓 known
+  - Subqueries: 🎓 known
   - Stored procedures
-  - SQL functions k
+  - SQL functions: 🎓 known
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` h
-  - `INSERT` h
+  - `SELECT`: 👂 heard
+  - `INSERT`: 👂 heard
   - `UPDATE`
-  - `DELETE` h
+  - `DELETE`: 👂 heard
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
-  - `EXISTS` h
-  - `JOIN` h
+  - `EXISTS`: 👂 heard
+  - `JOIN`: 👂 heard
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE` h
-  - `LIKE` h
-  - `IN` h
+  - `WHERE`: 👂 heard
+  - `LIKE`: 👂 heard
+  - `IN`: 👂 heard
   - `BETWEEN`
   - `CREATE TABLE`
   - `ALTER TABLE`
@@ -70,9 +70,9 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL h
-  - Oracle h
-  - MySQL h
+  - PostgreSQL: 👂 heard
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis
@@ -81,14 +81,14 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite h
+  - SQLite: 👂 heard
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis k
-  - AI tools k
-  - Cloud databases k
-  - Data Visualization k
+  - Data analysis: 🎓 known
+  - AI tools: 🎓 known
+  - Cloud databases: 🎓 known
+  - Data Visualization: 🎓 known
