@@ -1,22 +1,22 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
+  - Data types e
+  - Performance tuning e
+  - Migrations k
   - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
-  - Key-value store
-  - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
+  - Backup and recovery k
+  - Database scalability k
+  - Relational databases k
+  - Key-value store k
+  - Tuple store k
+  - Graph databases h
+  - Object databases k
+  - Column databases k
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
-  - Inverted index
+  - Inverted index u
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
@@ -24,37 +24,37 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing
+  - Indexing k
   - Primary keys
   - Foreign keys
   - Transactions
-  - Views
-  - Subqueries
+  - Views k
+  - Subqueries k
   - Stored procedures
-  - SQL functions
+  - SQL functions k
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
+  - `SELECT` h
+  - `INSERT` h
   - `UPDATE`
-  - `DELETE`
+  - `DELETE` h
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`
+  - `EXISTS` h
+  - `JOIN` h
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
+  - `WHERE` h
+  - `LIKE` h
+  - `IN` h
   - `BETWEEN`
   - `CREATE TABLE`
   - `ALTER TABLE`
@@ -70,9 +70,9 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
+  - PostgreSQL h
+  - Oracle h
+  - MySQL h
   - MariaDB
   - MS SQL Server
   - Redis
@@ -81,14 +81,14 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite h
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Data analysis k
+  - AI tools k
+  - Cloud databases k
+  - Data Visualization k
